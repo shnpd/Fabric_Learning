@@ -1,4 +1,4 @@
-# HyperledgerFabric_Learning
+# Fabric_Learning
 ## 目录介绍
 
 /bin：生成的配置文件
