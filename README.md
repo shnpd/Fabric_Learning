@@ -4,7 +4,7 @@
 /bin：生成的配置文件
 
 /src/fabric_asset：测试链码
-- /src/fabric_asset/chaincode：链码文件
+- /src/fabric_asset/chaincode：几个链码示例
 - /src/fabric_asset/deploy：网络配置文件
 
 ## 有关内容学习
